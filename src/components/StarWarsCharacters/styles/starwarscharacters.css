@@ -1,0 +1,29 @@
+.userInput {
+  display: flex;
+}
+
+.content {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.css-f3jnds-MuiDataGrid-columnHeaders {
+  background: black;
+  color: #ffc401;
+  font-weight: bold;
+}
+
+.css-r11z79-MuiDataGrid-root .MuiDataGrid-columnSeparator {
+  color: #ffc401;
+}
+
+.css-ptiqhd-MuiSvgIcon-root {
+  color: #ffc401 !important;
+}
+
+.spanTag {
+  font-weight: bold;
+  text-transform: capitalize;
+}

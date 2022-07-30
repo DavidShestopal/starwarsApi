@@ -1,0 +1,8 @@
+.image {
+  display: flex;
+  justify-content: center;
+}
+.logo {
+  width: 300px;
+  margin-top: 2rem;
+}
