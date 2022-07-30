@@ -4,7 +4,7 @@
 ### API Used
 https://swapi.dev/api/people
 
-###Project Dependencies
+### Project Dependencies
 @emotion/react 11.9.3
 @emotion/styled 11.9.3
 @mui/base 5.0.0-alpha.91 (5.0.0-alpha.91)
